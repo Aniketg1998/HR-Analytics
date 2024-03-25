@@ -1,2 +1,2 @@
 # HR-Analytics
-Created HR Analytics Dashboard using Power BI to gain insights of the attrition rate of employees by analyzing various features afftecting attrition of an employee.
+Analysing the HR Analytics data using Power BI to gain insights of features affecting the attrition rate of employees by analyzing various features.
