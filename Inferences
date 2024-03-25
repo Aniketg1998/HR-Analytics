@@ -1,0 +1,7 @@
+Below are the insights from the HR Analytics dataset:
+1.	Attrition Rate of employees in the company is 16.21%. Average age of employee working in the company is 37.
+2.	Looking at the Attrition by Age chart we can infer that employees in the age gap of 26-35 are more likely to leave the company.
+3.	Looking at the Attrition count by Year at Company chart we can infer that employees are more likely to leave the company after 1 or 2 years and again we can see increase in attrition rate when employees work in company for 10 years.
+4.	Employees earning less than or equal to 5k are more likely to leave the company.
+5.	Top 5 Roles where attrition count is more are: "Laboratory Technician, Sales Executive, Research Scientist, Sales Representative and Human Resource.
+6.	Employees whose education background is Medical (31.6%) or Life Sciences (41.2%) are more likely to leave the company.
